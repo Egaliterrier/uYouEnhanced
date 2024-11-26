@@ -8,6 +8,7 @@
 #import <rootless.h>
 #import <substrate.h>
 #import <sys/utsname.h>
+#import <YouTubeHeader/_ASDisplayView.h>
 #import <YouTubeHeader/ASCollectionElement.h>
 #import <YouTubeHeader/ASCollectionView.h>
 #import <YouTubeHeader/ELMCellNode.h>
