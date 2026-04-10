@@ -502,6 +502,9 @@ YTMainAppControlsOverlayView *controlsOverlayView;
 %hook MDXSession
 - (void)adPlaying:(id)ad {}
 %end
+%hook MDXSessionImpl
+- (void)adPlaying:(id)ad {}
+%end
 %hook YTReelDataSource
 - (YTReelModel *)makeContentModelForEntry:(id)entry {
     YTReelModel *model = %orig;
