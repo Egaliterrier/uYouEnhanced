@@ -448,6 +448,10 @@ YTMainAppControlsOverlayView *controlsOverlayView;
 - (void)adPlaying:(id)ad {}
 %end
 
+%hook MDXSessionImpl
+- (void)adPlaying:(id)ad {}
+%end
+
 %hook YTReelInfinitePlaybackDataSource
 - (YTReelModel *)makeContentModelForEntry:(id)entry {
     YTReelModel *model = %orig;
