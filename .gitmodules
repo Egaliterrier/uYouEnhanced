@@ -10,7 +10,7 @@
     url = https://github.com/aricloverEXTRA/DontEatMyContent.git
 [submodule "Tweaks/FLEXing"]
     path = Tweaks/FLEXing
-    url = https://github.com/PoomSmart/FLEXing.git
+    rurl = https://github.com/PoomSmart/FLEXing.git
     branch = rootless
 [submodule "Tweaks/IAmYouTube"]
     path = Tweaks/IAmYouTube
@@ -59,7 +59,7 @@
     url = https://github.com/PoomSmart/YouTube-X.git
 [submodule "Tweaks/YouTubeHeader"]
     path = Tweaks/YouTubeHeader
-    url = https://github.com/aricloverEXTRA/YouTubeHeader.git
+    url = https://github.com/Egaliterrier/YouTubeHeader.git
     branch = main
 [submodule "Tweaks/YTABConfig"]
     path = Tweaks/YTABConfig
