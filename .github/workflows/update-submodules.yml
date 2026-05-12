@@ -42,7 +42,7 @@ jobs:
           git add .
           git submodule update --init --recursive --remote Tweaks/YouQuality
           git add .
-          git submodule update --init --recursive --remote Tweaks/YouSlider
+          git submodule update --init --recursive --remote Tweaks/NoYTPremium
           git add .
           git submodule update --init --recursive --remote Tweaks/YouSpeed
           git add .
