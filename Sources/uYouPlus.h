@@ -42,6 +42,7 @@
 #import <YouTubeHeader/YTIPlayerBarDecorationModel.h>
 #import <YouTubeHeader/YTISectionListRenderer.h>
 #import <YouTubeHeader/YTIStringRun.h>
+#import <YouTubeHeader/YTIShowFullscreenInterstitialCommand.h>
 #import <YouTubeHeader/YTMainAppVideoPlayerOverlayViewController.h>
 #import <YouTubeHeader/YTMainAppVideoPlayerOverlayView.h>
 #import <YouTubeHeader/YTNavigationBarTitleView.h>
